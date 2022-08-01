@@ -188,7 +188,7 @@ header ul li {
   }
 }
 @media (max-width:767px) {
-  .info h3 {
+  .info h2 {
     text-align: center;
   }
 }
