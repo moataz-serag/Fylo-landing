@@ -335,7 +335,7 @@ header ul li {
   max-width: 100%;
   display: block;
   margin-bottom: 20px;
-  color: #fff;
+  filter: brightness(0) invert(1);
 }
 .footer span {
   display: block;
